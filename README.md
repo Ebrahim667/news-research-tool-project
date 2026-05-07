@@ -2,7 +2,7 @@
 
 A simple RAG (Retrieval-Augmented Generation) app that lets you feed in news article URLs and ask questions about them. Designed for quick research in the stock market and financial domain — paste a few articles, get answers with sources.
 
-Built as a hands-on project while learning RAG and AI frameworks. The original tutorial used paid OpenAI APIs; this version runs on a fully free stack (**Groq** for the LLM, **HuggingFace** for embeddings), making it accessible without any paid API costs.
+Built as a hands-on project while learning RAG and AI frameworks. This version runs on a fully free stack (**Groq** for the LLM, **HuggingFace** for embeddings), making it accessible without any paid API costs.
 
 ![RockyBot app screenshot](rockybot.jpg)
 
