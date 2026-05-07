@@ -1,0 +1,24 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Project artifacts
+faiss_index/
+*.pkl
+
+# Tutorial leftover
+langchain_helper.py
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
