@@ -32,7 +32,7 @@ Built as a hands-on project while learning RAG and AI frameworks. This version r
 
 1. Clone this repository:
    ```
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone https://github.com/Ebrahim667/news-research-tool-project.git
    ```
 
 2. Navigate to the project directory:
